@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/goel-shrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goel-shrey" height="30" width="40" /></a>
-<a href="https://nopedotexe.itch.io/" target="blank"><img align="center" src="https://static.itch.io/images/itchio-textless-black.svg" alt="goel-shrey" height="30" width="40" /></a>
+<a href="https://nopedotexe.itch.io/" target="blank"><img align="center" src="https://static.itch.io/images/itchio-textless-white.svg" alt="nopedotexe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
